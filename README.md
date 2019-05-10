@@ -1,4 +1,4 @@
-# Dark Souls 3 Cheat Sheet
+# Sekiro Cheat Sheet
 
 To view the cheat sheet [click here](http://zkjellberg.github.io/dark-souls-3-cheat-sheet/).
 
