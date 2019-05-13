@@ -1,4 +1,4 @@
-var profilesKey = 'darksouls3_profiles';
+var profilesKey = 'sekiro_profiles';
 
 (function($) {
     'use strict';
