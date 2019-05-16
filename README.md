@@ -10,7 +10,7 @@ If you are interested in contributing to this guide, I welcome Pull Requests on 
 
 For some background on how the guide code is written, here is a sample item on the checklist:
 
-```
+```html
 <li data-id="playthrough_13_20" class="f_gem f_misc">Continue left until you can enter a room with a Large Soul of a Nameless Soldier and a Raw Gem</li>
 ```
 
