@@ -2,13 +2,9 @@
 
 To view the cheat sheet [click here](http://zkjellberg.github.io/dark-souls-3-cheat-sheet/).
 
-This checklist was created by adopting the source code from the [Dark Souls 2 Cheat Sheet](https://github.com/smcnabb/dark-souls-2-cheat-sheet/tree/gh-pages) created by [Stephen McNabb](https://github.com/smcnabb).
-
-The walkthrough is thanks to [DeathGodGarra's NPC Side Quests Guide V2](https://www.gamefaqs.com/boards/168566-dark-souls-iii/73599466).
-
 ## Contribution Guide
 
-If you are interested in contributing to this guide, I welcome Pull Requests.
+If you are interested in contributing to this guide, I welcome Pull Requests on GitHub.
 
 For some background on how the guide code is written, here is a sample item on the checklist:
 
